@@ -1,0 +1,15 @@
+[
+  {
+    "id": "2026-11-01-nycparks-diwali-festival-of-lights",
+    "date": "2026-11-01",
+    "time": "unknown (not specified in available sources)",
+    "location": "NYC Parks community event; exact park not confirmed in search results",
+    "sponsor_or_name": "NYC Parks - \"Festival of Lights: Diwali\"",
+    "production_score": 4,
+    "score_justification": "Appears to be a neighborhood-scale NYC Parks community program rather than a large commercial-caliber display; available sources did not confirm the venue or even that fireworks (vs. lights/cultural programming) are actually part of this specific event.",
+    "viewability_note": "Location unconfirmed. NYC Parks' recurring Diwali \"Festival of Lights\" events have historically been held at neighborhood parks away from the Manhattan skyline/Hudson waterfront rather than as a Hudson River barge show, so it is likely NOT visible from the Ellipse balcony -- but this is unconfirmed and should be re-checked as the date approaches.",
+    "first_seen_at": "2026-09-08T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  }
+]
