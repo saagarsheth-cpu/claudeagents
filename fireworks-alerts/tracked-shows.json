@@ -28,6 +28,34 @@
     "notified_at": "2026-09-11T00:00:00Z"
   },
   {
+    "id": "2026-10-09-draconids-meteor-shower-peak",
+    "type": ["astronomical", "meteor_shower"],
+    "date": "2026-10-09",
+    "time": "peak evening/night of Oct 8-9, predicted ~1:00 UTC Oct 9 (~9:00pm ET Oct 8); unusually, best viewing is at nightfall rather than after midnight since the radiant (near Draco) is highest in the early evening",
+    "location": "N/A - sky-wide event; radiant near the constellation Draco, circumpolar (generally high toward the north)",
+    "sponsor_or_name": "Draconid Meteor Shower (annual, debris from comet 21P/Giacobini-Zinner)",
+    "production_score": 4,
+    "score_justification": "Normally a weak shower (~5/hr, occasionally higher in outburst years), but 2026's peak falls under a moonless dark sky (new moon Oct 10) -- one of the better years for this shower -- and the evening-hours peak is convenient timing, though it is not a headline event like the Perseids/Geminids.",
+    "viewability_note": "NYC-area light pollution will suppress all but the brighter meteors from a 32nd-floor balcony facing the lit Manhattan skyline; the radiant is high overhead/north rather than over the skyline, so look up and away from the brightest glare rather than toward Manhattan. Worth a quick look at nightfall given the dark-sky new-moon timing, but don't expect the full rate.",
+    "first_seen_at": "2026-09-13T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  },
+  {
+    "id": "2026-10-26-hunters-moon-supermoon",
+    "type": ["astronomical", "supermoon"],
+    "date": "2026-10-26",
+    "time": "peak fullness 12:12am EDT Oct 26; best viewed at moonrise the evening of Oct 25 or Oct 26 shortly after sunset",
+    "location": "N/A - full moon rising in the east over the Manhattan skyline",
+    "sponsor_or_name": "October \"Hunter's Moon\" Supermoon (one of four supermoons in 2026)",
+    "production_score": 7,
+    "score_justification": "One of four supermoons in 2026, appearing noticeably larger/brighter than an average full moon; like the Beaver Moon in November, the moonrise-over-skyline framing (rather than the moon itself) is what makes it a good watch.",
+    "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City. Best viewed right at moonrise (shortly after sunset on Oct 25 or Oct 26) when the moon looks largest near the horizon against the skyline silhouette; confirm exact moonrise time closer to the date.",
+    "first_seen_at": "2026-09-13T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  },
+  {
     "id": "2026-10-21-orionids-meteor-shower-peak",
     "type": ["astronomical", "meteor_shower"],
     "date": "2026-10-21",
