@@ -1,6 +1,7 @@
 [
   {
     "id": "2026-11-01-nycparks-diwali-festival-of-lights",
+    "type": ["fireworks"],
     "date": "2026-11-01",
     "time": "unknown (not specified in available sources)",
     "location": "NYC Parks community event; exact park not confirmed in search results",
@@ -14,15 +15,44 @@
   },
   {
     "id": "2026-09-12-hoboken-sinatra-park-italian-festival-100th",
+    "type": ["fireworks", "drone"],
     "date": "2026-09-12",
-    "time": "evening, exact time not confirmed - follows a parade/procession that reaches the waterfront around 5:30pm, then the Blessing of the Fleet reenactment, then fireworks and a drone show; likely dusk, approx. 7:30-8:30pm based on historical years but not confirmed in sources",
+    "time": "fireworks + drone show at 9:00pm following the evening procession and Blessing of the Fleet",
     "location": "Hudson River waterfront at Sinatra Park / Pier A Park, Hoboken NJ",
-    "sponsor_or_name": "100th Annual Hoboken Italian Festival (Feast of Madonna Dei Martiri) - fireworks + new drone show for the milestone year",
-    "production_score": 7,
-    "score_justification": "Century-old civic/religious community tradition (not a mega-commercial show), but multi-outlet local press (Hoboken Girl, Patch, TAPinto, Hudson Reporter) and a past Patch headline noting the display 'gets tongues wagging across the river in NYC' suggest a genuinely notable display, plus a new drone show added for the 100th anniversary.",
-    "viewability_note": "Sinatra Park/Pier A Park sits on the Hudson River waterfront in Hoboken, just north along the same river corridor as the Ellipse - well within the Hudson River/Midtown-facing sightline, so this is very likely visible and possibly more prominent than farther Manhattan-side shows given the shorter distance.",
+    "sponsor_or_name": "100th Annual Hoboken Italian Festival (Feast of Madonna Dei Martiri) - fireworks + first-ever drone show by Pixis Drones, sponsored by Mutti USA, for the milestone year",
+    "production_score": 8,
+    "score_justification": "Confirmed 9:00pm slot explicitly framed as \"look east to the Hudson River\" -- i.e. produced for waterfront viewers across the river -- plus a professional drone-show vendor (Pixis Drones) and a named corporate sponsor (Mutti USA) for the 100th-anniversary show; upgraded from initial estimate once the drone show and vendor were confirmed.",
+    "viewability_note": "Sinatra Park/Pier A Park sits on the Hudson River waterfront in Hoboken, just north along the same river corridor as the Ellipse - well within the Hudson River/Midtown-facing sightline, and the show was explicitly billed as facing east toward viewers on the river, so very likely to have been clearly visible.",
     "first_seen_at": "2026-09-11T00:00:00Z",
     "notified": true,
     "notified_at": "2026-09-11T00:00:00Z"
+  },
+  {
+    "id": "2026-10-21-orionids-meteor-shower-peak",
+    "type": ["astronomical", "meteor_shower"],
+    "date": "2026-10-21",
+    "time": "peak overnight Oct 21 into predawn Oct 22; best viewing after midnight until dawn",
+    "location": "N/A - sky-wide event; radiant near the constellation Orion, which rises in the east",
+    "sponsor_or_name": "Orionid Meteor Shower (annual, debris from Halley's Comet)",
+    "production_score": 5,
+    "score_justification": "A modest annual shower (15-25 meteors/hour under dark rural skies), not a headline event like the Perseids/Geminids, but 2026's peak falls just two nights after a new moon (Oct 19), giving the darkest possible sky conditions for this shower this year.",
+    "viewability_note": "Meteor showers need dark skies away from light pollution, which a 32nd-floor balcony facing the lit Manhattan skyline does not have -- expect to catch only the occasional brighter fireball rather than the full shower rate. If watching anyway, look toward the east/northeast after midnight (away from the brightest skyline glare) where Orion rises.",
+    "first_seen_at": "2026-09-13T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  },
+  {
+    "id": "2026-11-24-beaver-supermoon",
+    "type": ["astronomical", "supermoon"],
+    "date": "2026-11-24",
+    "time": "moonrise shortly after sunset; exact moonrise time to confirm closer to the date",
+    "location": "N/A - full moon rising in the east over the Manhattan skyline",
+    "sponsor_or_name": "November \"Beaver Moon\" Supermoon (one of three supermoons in 2026)",
+    "production_score": 7,
+    "score_justification": "One of only three supermoons in 2026, appearing roughly 6.5% larger and 13.5% brighter than an average full moon; the moonrise-over-skyline framing is what makes this notable rather than the moon itself.",
+    "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City. Best viewed right at moonrise (shortly after sunset) when the moon looks largest near the horizon against the skyline silhouette.",
+    "first_seen_at": "2026-09-13T00:00:00Z",
+    "notified": false,
+    "notified_at": null
   }
 ]
