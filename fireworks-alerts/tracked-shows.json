@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-09-09-nyfa-911-drone-show-new-york-harbor",
+    "type": ["drone"],
+    "date": "2026-09-09",
+    "time": "evening (exact hour not specified in sources)",
+    "location": "New York Harbor, over/near the World Trade Center site in Lower Manhattan",
+    "sponsor_or_name": "\"2,977 Lights Over New York Harbor\" - New York Foundation for the Arts, ahead of the 25th anniversary of 9/11",
+    "production_score": 9,
+    "score_justification": "2,977 drones (one per victim) rebuilding the Twin Towers at full architectural scale over the harbor, produced by Sky Elements with national media coverage (ABC7, PR Newswire, DroneXL) -- a headline-caliber commemorative show.",
+    "viewability_note": "Launched over New York Harbor near the WTC site in Lower Manhattan, squarely within the Ellipse balcony's Hudson River/Lower Manhattan sightline -- almost certainly would have been visible. Discovered on 2026-09-13, four days after it occurred on 2026-09-09 (multiple news write-ups only surfaced around/after the 9/11 anniversary), so it had already fully passed before this agent could have alerted on it -- no email sent per the never-alert-on-past-events rule.",
+    "first_seen_at": "2026-09-13T00:00:00Z",
+    "notified": true,
+    "notified_at": null
+  },
+  {
     "id": "2026-11-01-nycparks-diwali-festival-of-lights",
     "type": ["fireworks"],
     "date": "2026-11-01",
