@@ -28,6 +28,20 @@
     "notified_at": "2026-09-11T00:00:00Z"
   },
   {
+    "id": "2026-10-10-venus-mercury-evening-conjunction",
+    "type": ["astronomical", "conjunction"],
+    "date": "2026-10-10",
+    "time": "visible for about one hour after sunset, low in the western sky",
+    "location": "N/A - Venus and Mercury paired low in the western evening sky",
+    "sponsor_or_name": "Venus-Mercury evening conjunction",
+    "production_score": 3,
+    "score_justification": "\"How worth watching\" score: a modest, fairly routine planetary pairing (not a rare/close conjunction) low near the horizon shortly after sunset -- pleasant if you happen to be looking, but not a dramatic must-see like a meteor shower peak or supermoon.",
+    "viewability_note": "Sits low near the western horizon in twilight -- the balcony's strong sightline is east toward the Hudson/Manhattan skyline, so buildings or the horizon to the west may block this depending on the balcony's exact orientation; unconfirmed until checked closer to the date. NYC-area twilight glow will also wash out all but the two planets themselves (both bright enough to punch through).",
+    "first_seen_at": "2026-09-14T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  },
+  {
     "id": "2026-10-09-draconids-meteor-shower-peak",
     "type": ["astronomical", "meteor_shower"],
     "date": "2026-10-09",
