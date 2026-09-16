@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-09-22-venus-peak-brightness",
+    "type": ["astronomical"],
+    "date": "2026-09-22",
+    "time": "just after sunset, low above the southwestern horizon (Venus sets shortly after twilight)",
+    "location": "N/A - Venus low in the southwestern evening sky",
+    "sponsor_or_name": "Venus at peak brightness for 2026 (greatest illuminated extent, magnitude -4.8)",
+    "production_score": 5,
+    "score_justification": "\"How worth watching\" score: this is Venus's brightest point of the year (mag -4.8, >20x brighter than Sirius) and needs no special equipment or dark sky to see, but it is a single bright point of light rather than a dramatic spectacle, and it sits low near the horizon for only a brief window after sunset.",
+    "viewability_note": "The balcony's confirmed strong sightline is east toward the Hudson/Manhattan skyline; Venus will be low in the southwest, a direction not yet confirmed as visible from the balcony (may be blocked by the building itself or the western horizon) -- unlike faint meteors, Venus at magnitude -4.8 is bright enough to cut through NYC-area light pollution and low clouds easily if the southwest sky is unobstructed at all.",
+    "first_seen_at": "2026-09-16T00:00:00Z",
+    "notified": true,
+    "notified_at": "2026-09-16T00:00:00Z"
+  },
+  {
     "id": "2026-11-01-nycparks-diwali-festival-of-lights",
     "type": ["fireworks"],
     "date": "2026-11-01",
