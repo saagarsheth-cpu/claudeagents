@@ -112,6 +112,20 @@
     "notified_at": null
   },
   {
+    "id": "2026-10-04-saturn-opposition",
+    "type": ["astronomical"],
+    "date": "2026-10-04",
+    "time": "visible all night; rises at sunset, highest around midnight, culminates at ~39° altitude",
+    "location": "N/A - Saturn visible across the southern sky overnight",
+    "sponsor_or_name": "Saturn at opposition 2026 (closest/brightest approach of the year, mag ~0.3)",
+    "production_score": 5,
+    "score_justification": "\"How worth watching\" score: annual opposition, so not rare, but this is Saturn's brightest and biggest night of 2026 and needs no equipment to spot as a steady bright \"star\" (rings/detail would need a telescope, which is a bonus not a requirement); a modest but reliable naked-eye watch rather than a headline spectacle.",
+    "viewability_note": "Saturn crosses the southern sky overnight rather than sitting over the Manhattan skyline, so exact visibility depends on how much of the southern sky the balcony's overhang/railings expose -- unconfirmed. At mag 0.3 it is bright enough to cut through NYC-area light pollution easily as a steady point of light; ring/moon detail is washed out and needs a telescope regardless of light pollution.",
+    "first_seen_at": "2026-09-18T00:00:00Z",
+    "notified": false,
+    "notified_at": null
+  },
+  {
     "id": "2026-11-24-beaver-supermoon",
     "type": ["astronomical", "supermoon"],
     "date": "2026-11-24",
