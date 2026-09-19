@@ -38,8 +38,8 @@
     "score_justification": "\"How worth watching\" score: not a supermoon (average apparent size/brightness), but the Harvest Moon's slow-moonrise effect gives several consecutive early-evening moonrises worth watching rather than a single night, and it's a culturally notable/well-covered annual event.",
     "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City, and a full moon is bright enough to punch through NYC-area light pollution easily (unlike faint meteor showers). Best viewed right at moonrise shortly after sunset on Sept 24-26; confirm exact moonrise time closer to the date.",
     "first_seen_at": "2026-09-15T00:00:00Z",
-    "notified": false,
-    "notified_at": null
+    "notified": true,
+    "notified_at": "2026-09-19T00:00:00Z"
   },
   {
     "id": "2026-09-12-hoboken-sinatra-park-italian-festival-100th",
