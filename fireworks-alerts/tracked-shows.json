@@ -1,7 +1,9 @@
 [
   {
     "id": "2026-09-22-venus-peak-brightness",
-    "type": ["astronomical"],
+    "type": [
+      "astronomical"
+    ],
     "date": "2026-09-22",
     "time": "just after sunset, low above the southwestern horizon (Venus sets shortly after twilight)",
     "location": "N/A - Venus low in the southwestern evening sky",
@@ -11,11 +13,16 @@
     "viewability_note": "The balcony's confirmed strong sightline is east toward the Hudson/Manhattan skyline; Venus will be low in the southwest, a direction not yet confirmed as visible from the balcony (may be blocked by the building itself or the western horizon) -- unlike faint meteors, Venus at magnitude -4.8 is bright enough to cut through NYC-area light pollution and low clouds easily if the southwest sky is unobstructed at all.",
     "first_seen_at": "2026-09-16T00:00:00Z",
     "notified": true,
-    "notified_at": "2026-09-16T00:00:00Z"
+    "notified_at": "2026-09-16T00:00:00Z",
+    "calendar_event_created": true,
+    "calendar_event_id": "bv9oig1csone40pp7vkp01m8gs",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-11-01-nycparks-diwali-festival-of-lights",
-    "type": ["fireworks"],
+    "type": [
+      "fireworks"
+    ],
     "date": "2026-11-01",
     "time": "unknown (not specified in available sources)",
     "location": "NYC Parks community event; exact park not confirmed in search results",
@@ -25,11 +32,17 @@
     "viewability_note": "Location unconfirmed. NYC Parks' recurring Diwali \"Festival of Lights\" events have historically been held at neighborhood parks away from the Manhattan skyline/Hudson waterfront rather than as a Hudson River barge show, so it is likely NOT visible from the Ellipse balcony -- but this is unconfirmed and should be re-checked as the date approaches.",
     "first_seen_at": "2026-09-08T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "7502miplk3q3i9jmlb4ngm8m38",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-09-26-harvest-moon",
-    "type": ["astronomical", "supermoon"],
+    "type": [
+      "astronomical",
+      "supermoon"
+    ],
     "date": "2026-09-26",
     "time": "peak fullness 12:49pm EDT Sept 26; best viewed at moonrise shortly after sunset on Sept 24, 25, or 26 -- near the equinox the moon rises only ~30 min later each night instead of the usual ~50, so it looks nearly full and rises at a convenient early-evening time on several consecutive nights",
     "location": "N/A - full moon rising in the east over the Manhattan skyline",
@@ -39,11 +52,17 @@
     "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City, and a full moon is bright enough to punch through NYC-area light pollution easily (unlike faint meteor showers). Best viewed right at moonrise shortly after sunset on Sept 24-26; confirm exact moonrise time closer to the date.",
     "first_seen_at": "2026-09-15T00:00:00Z",
     "notified": true,
-    "notified_at": "2026-09-19T00:00:00Z"
+    "notified_at": "2026-09-19T00:00:00Z",
+    "calendar_event_created": true,
+    "calendar_event_id": "51p3a5hbqehn47c0hr6o51kn34",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-09-12-hoboken-sinatra-park-italian-festival-100th",
-    "type": ["fireworks", "drone"],
+    "type": [
+      "fireworks",
+      "drone"
+    ],
     "date": "2026-09-12",
     "time": "fireworks + drone show at 9:00pm following the evening procession and Blessing of the Fleet",
     "location": "Hudson River waterfront at Sinatra Park / Pier A Park, Hoboken NJ",
@@ -53,11 +72,17 @@
     "viewability_note": "Sinatra Park/Pier A Park sits on the Hudson River waterfront in Hoboken, just north along the same river corridor as the Ellipse - well within the Hudson River/Midtown-facing sightline, and the show was explicitly billed as facing east toward viewers on the river, so very likely to have been clearly visible.",
     "first_seen_at": "2026-09-11T00:00:00Z",
     "notified": true,
-    "notified_at": "2026-09-11T00:00:00Z"
+    "notified_at": "2026-09-11T00:00:00Z",
+    "calendar_event_created": false,
+    "calendar_event_id": null,
+    "calendar_id": null
   },
   {
     "id": "2026-10-10-venus-mercury-evening-conjunction",
-    "type": ["astronomical", "conjunction"],
+    "type": [
+      "astronomical",
+      "conjunction"
+    ],
     "date": "2026-10-10",
     "time": "visible for about one hour after sunset, low in the western sky",
     "location": "N/A - Venus and Mercury paired low in the western evening sky",
@@ -67,11 +92,17 @@
     "viewability_note": "Sits low near the western horizon in twilight -- the balcony's strong sightline is east toward the Hudson/Manhattan skyline, so buildings or the horizon to the west may block this depending on the balcony's exact orientation; unconfirmed until checked closer to the date. NYC-area twilight glow will also wash out all but the two planets themselves (both bright enough to punch through).",
     "first_seen_at": "2026-09-14T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "s3b57dcqa1vrdc9oktmab8v77c",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-10-09-draconids-meteor-shower-peak",
-    "type": ["astronomical", "meteor_shower"],
+    "type": [
+      "astronomical",
+      "meteor_shower"
+    ],
     "date": "2026-10-09",
     "time": "peak evening/night of Oct 8-9, predicted ~1:00 UTC Oct 9 (~9:00pm ET Oct 8); unusually, best viewing is at nightfall rather than after midnight since the radiant (near Draco) is highest in the early evening",
     "location": "N/A - sky-wide event; radiant near the constellation Draco, circumpolar (generally high toward the north)",
@@ -81,11 +112,17 @@
     "viewability_note": "NYC-area light pollution will suppress all but the brighter meteors from a 32nd-floor balcony facing the lit Manhattan skyline; the radiant is high overhead/north rather than over the skyline, so look up and away from the brightest glare rather than toward Manhattan. Worth a quick look at nightfall given the dark-sky new-moon timing, but don't expect the full rate.",
     "first_seen_at": "2026-09-13T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "ri946irka8pv84usj91u8a1kp4",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-10-26-hunters-moon-supermoon",
-    "type": ["astronomical", "supermoon"],
+    "type": [
+      "astronomical",
+      "supermoon"
+    ],
     "date": "2026-10-26",
     "time": "peak fullness 12:12am EDT Oct 26; best viewed at moonrise the evening of Oct 25 or Oct 26 shortly after sunset",
     "location": "N/A - full moon rising in the east over the Manhattan skyline",
@@ -95,11 +132,17 @@
     "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City. Best viewed right at moonrise (shortly after sunset on Oct 25 or Oct 26) when the moon looks largest near the horizon against the skyline silhouette; confirm exact moonrise time closer to the date.",
     "first_seen_at": "2026-09-13T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "202mp1fl1t7jqoppckevq2fk9k",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-10-21-orionids-meteor-shower-peak",
-    "type": ["astronomical", "meteor_shower"],
+    "type": [
+      "astronomical",
+      "meteor_shower"
+    ],
     "date": "2026-10-21",
     "time": "peak overnight Oct 21 into predawn Oct 22; best viewing after midnight until dawn",
     "location": "N/A - sky-wide event; radiant near the constellation Orion, which rises in the east",
@@ -109,13 +152,18 @@
     "viewability_note": "Meteor showers need dark skies away from light pollution, which a 32nd-floor balcony facing the lit Manhattan skyline does not have -- expect to catch only the occasional brighter fireball rather than the full shower rate. If watching anyway, look toward the east/northeast after midnight (away from the brightest skyline glare) where Orion rises.",
     "first_seen_at": "2026-09-13T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "i6ls28enmj6s4d5o55k9tps7js",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-10-04-saturn-opposition",
-    "type": ["astronomical"],
+    "type": [
+      "astronomical"
+    ],
     "date": "2026-10-04",
-    "time": "visible all night; rises at sunset, highest around midnight, culminates at ~39° altitude",
+    "time": "visible all night; rises at sunset, highest around midnight, culminates at ~39\u00b0 altitude",
     "location": "N/A - Saturn visible across the southern sky overnight",
     "sponsor_or_name": "Saturn at opposition 2026 (closest/brightest approach of the year, mag ~0.3)",
     "production_score": 5,
@@ -123,11 +171,17 @@
     "viewability_note": "Saturn crosses the southern sky overnight rather than sitting over the Manhattan skyline, so exact visibility depends on how much of the southern sky the balcony's overhang/railings expose -- unconfirmed. At mag 0.3 it is bright enough to cut through NYC-area light pollution easily as a steady point of light; ring/moon detail is washed out and needs a telescope regardless of light pollution.",
     "first_seen_at": "2026-09-18T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "9fe3k2geocan9lleuoomh2cb7k",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-11-24-beaver-supermoon",
-    "type": ["astronomical", "supermoon"],
+    "type": [
+      "astronomical",
+      "supermoon"
+    ],
     "date": "2026-11-24",
     "time": "moonrise shortly after sunset; exact moonrise time to confirm closer to the date",
     "location": "N/A - full moon rising in the east over the Manhattan skyline",
@@ -137,6 +191,9 @@
     "viewability_note": "Strong match for this balcony's exact sightline: the moon rises in the east, directly over the Manhattan skyline as seen from Jersey City. Best viewed right at moonrise (shortly after sunset) when the moon looks largest near the horizon against the skyline silhouette.",
     "first_seen_at": "2026-09-13T00:00:00Z",
     "notified": false,
-    "notified_at": null
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "1dlsr4m44iv5h71vdns7hh3qkg",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   }
 ]

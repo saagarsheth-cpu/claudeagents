@@ -61,8 +61,12 @@ on discovery, don't wait for the show to be within 2 days).
 
 - Use the Composio Google Calendar connector (account alias
   `saagarsheth-triage-routine`, connected 2026-09-19) via
-  `GOOGLECALENDAR_CREATE_EVENT` on the `primary` calendar, timezone
-  `America/New_York`.
+  `GOOGLECALENDAR_CREATE_EVENT`. **Do not use the `primary` calendar** --
+  Saagar explicitly asked for a separate calendar, not his personal/work one.
+  Use the dedicated **"Balcony Shows"** calendar (id
+  `3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com`,
+  created 2026-09-19, timezone `America/New_York`) as `calendar_id` on every
+  create/patch call.
 - Event summary: `"{type emoji/label} {sponsor_or_name}"`. Description:
   production/worth-watching score + justification, viewability note, and
   source. Start/end: use the show's `time` field to build a start_datetime
@@ -71,9 +75,10 @@ on discovery, don't wait for the show to be within 2 days).
   show's `time` field already specifies one).
 - To avoid duplicate events on repeat runs, each tracked-shows.json entry now
   also carries `"calendar_event_id"` (the Google Calendar event id, or null
-  until created) and `"calendar_event_created"` (bool). Only call
-  `GOOGLECALENDAR_CREATE_EVENT` for an entry when `calendar_event_created` is
-  false; set it true and store the id immediately after a successful create.
+  until created), `"calendar_event_created"` (bool), and `"calendar_id"` (the
+  calendar it was created on, or null). Only call `GOOGLECALENDAR_CREATE_EVENT`
+  for an entry when `calendar_event_created` is false; set it true and store
+  the id + calendar_id immediately after a successful create.
 - If a previously-tracked entry's date/time/details change on a later run
   (re-discovered with new info), use `GOOGLECALENDAR_PATCH_EVENT` with the
   stored `calendar_event_id` to update it rather than creating a duplicate.
