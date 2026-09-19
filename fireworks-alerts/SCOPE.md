@@ -1,10 +1,13 @@
 # Fireworks-alert agent — scope notes
 
-This file supplements the scheduled task's stored prompt. It records a scope
-change requested by Saagar on 2026-09-13 that should be folded into the
-scheduled task's prompt text itself (see note at the bottom — this repo file
-alone won't change what the automated run does, since the run is driven by
-the scheduler's stored prompt, not by files in this repo).
+This file supplements the scheduled task's stored prompt. It records scope
+changes requested by Saagar, applied to the scheduled task's actual prompt
+text (via the claude.ai scheduled-task editor) as of 2026-09-19 — Saagar
+pasted a full rewritten prompt on that date that already folds in the
+2026-09-13 expanded-discovery-scope change below plus the two 2026-09-19
+changes (2-day alert window, "Balcony Shows" calendar). This file is kept as
+a historical/reference record of what's in that prompt; it is not itself
+read by the automated run.
 
 ## Expanded discovery scope (as of 2026-09-13)
 
@@ -37,8 +40,9 @@ faint events (most meteor showers) but genuinely good for anything that uses
 the east-facing skyline as a backdrop (e.g. a full moon rising over
 Manhattan).
 
-The same 7-day alert-timing rule applies to these new categories — track
-immediately on discovery, email only once (event_date - today) <= 7 days.
+The same alert-timing rule applies to these new categories — track
+immediately on discovery, email only once (event_date - today) <= the
+threshold in effect (2 days as of 2026-09-19; see below).
 
 ## Alert-timing rule change (as of 2026-09-19)
 
@@ -83,19 +87,21 @@ on discovery, don't wait for the show to be within 2 days).
   (re-discovered with new info), use `GOOGLECALENDAR_PATCH_EVENT` with the
   stored `calendar_event_id` to update it rather than creating a duplicate.
 
-## Action needed to make this durable
+## Durability status: RESOLVED (2026-09-19)
 
-This session does not have a tool to edit the actual scheduled task prompt
+This session did not have a tool to edit the actual scheduled task prompt
 stored by the scheduler (only session-local CronCreate/CronList, which is
-not what runs this daily task). To make both scope changes above stick for
-future automated runs, Saagar should fold them into the scheduled task's
-prompt text via the scheduled-task editor on claude.ai:
-1. Change the ALERT TIMING RULE's "7 days" to "2 days" (and the email
-   subject template's day count accordingly).
-2. Add a new "CALENDAR EVENT CREATION" step alongside the existing tracking
-   step, per the "Google Calendar event creation" section above.
+not what runs this daily task), so the fix had to go through Saagar
+directly. He confirmed on 2026-09-19 that he replaced the scheduled task's
+entire stored prompt (via the claude.ai scheduled-task editor) with a
+rewritten version that includes:
+1. The 2-day alert-timing threshold (was 7 days).
+2. A "CALENDAR EVENT CREATION" step targeting the dedicated "Balcony Shows"
+   calendar (never `primary`).
+3. The 2026-09-13 expanded discovery scope (drone shows, astronomical
+   events, aerial/water spectacles) — already folded into that same rewrite.
 
-Until that's done, both changes only reflect the one-off pass done in this
-live session on 2026-09-19 (the 2-day rule applied to this run's alerting
-decisions, and calendar events created for the shows tracked as of this
-run).
+Future automated runs should reflect all of this without further action.
+If a future run is observed still using the old 7-day threshold or writing
+to the primary calendar, the prompt swap didn't take — ask Saagar to check
+the scheduled task's saved text against the current version of this file.
