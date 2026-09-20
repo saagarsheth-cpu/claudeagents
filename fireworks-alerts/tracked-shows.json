@@ -73,9 +73,9 @@
     "first_seen_at": "2026-09-11T00:00:00Z",
     "notified": true,
     "notified_at": "2026-09-11T00:00:00Z",
-    "calendar_event_created": false,
-    "calendar_event_id": null,
-    "calendar_id": null
+    "calendar_event_created": true,
+    "calendar_event_id": "of960urgbh40lkshhgoadekud8",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
     "id": "2026-10-10-venus-mercury-evening-conjunction",
