@@ -195,5 +195,25 @@
     "calendar_event_created": true,
     "calendar_event_id": "1dlsr4m44iv5h71vdns7hh3qkg",
     "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
+  },
+  {
+    "id": "2026-11-05-southern-taurids-fireball-swarm-peak",
+    "type": [
+      "astronomical",
+      "meteor_shower"
+    ],
+    "date": "2026-11-05",
+    "time": "predicted peak 0:22 UTC Nov 5 (~7:22pm EST Nov 4); best watching overnight Nov 4 into early morning Nov 5, especially after midnight when the radiant (Taurus) is highest",
+    "location": "N/A - sky-wide event; radiant near the constellation Taurus, rising in the east/southeast in the evening",
+    "sponsor_or_name": "Southern Taurid meteor shower - 2026 flagged as a 'swarm year' for bright fireballs",
+    "production_score": 5,
+    "score_justification": "\"How worth watching\" score: normally a weak shower (~5/hr), but multiple outlets (AMS, EarthSky, Space.com) flag 2026 as a Southern Taurid swarm year with an elevated chance of bright fireballs, plus a favorable waning crescent moon for the peak night.",
+    "viewability_note": "Fireballs are bright enough to occasionally punch through NYC-area light pollution, unlike faint shower meteors, but the overall rate stays low (roughly 5-10/hr even in a swarm year) -- a 32nd-floor balcony facing the lit Manhattan skyline will only catch the brighter ones. Look south/southeast toward Taurus, away from the brightest skyline glare; best after midnight.",
+    "first_seen_at": "2026-09-21T00:00:00Z",
+    "notified": false,
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "qe5q3v3otahhvpiuk8h1986fk0",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   }
 ]
