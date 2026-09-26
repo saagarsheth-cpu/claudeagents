@@ -197,6 +197,25 @@
     "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
   },
   {
+    "id": "2026-10-30-nyc-marathon-opening-ceremony-central-park",
+    "type": [
+      "fireworks"
+    ],
+    "date": "2026-10-30",
+    "time": "Opening Ceremony 4:00-6:30pm; grandstand/Parade of Nations begins ~4:30pm, \"grand finale\" (fireworks in past years) around 6:30pm near sunset/dusk",
+    "location": "TCS New York City Marathon finish line, Central Park, Manhattan (near Tavern on the Green / West 67th St, Central Park West side)",
+    "sponsor_or_name": "TCS New York City Marathon Opening Ceremony presented by United Airlines (NYRR) - 2026 is the 50th NYC Marathon",
+    "production_score": 4,
+    "score_justification": "A televised, sponsor-backed national event (50th-anniversary year adds some extra scale), but this is a ceremony finale, not a dedicated commercial fireworks show -- past years' opening ceremonies have ended with fireworks per general searches, but that has not been specifically confirmed for the 2026 edition yet; re-check closer to the date.",
+    "viewability_note": "Central Park's west side sits roughly 1-1.5 miles inland from the Hudson, well behind Midtown/Upper West Side high-rises as seen from a 32nd-floor Jersey City balcony -- most likely NOT visible except possibly the highest shell bursts peeking over the skyline silhouette if the display is large. Genuinely uncertain; treat as a long-shot rather than a confirmed sightline.",
+    "first_seen_at": "2026-09-26T00:00:00Z",
+    "notified": false,
+    "notified_at": null,
+    "calendar_event_created": true,
+    "calendar_event_id": "cu7rbabmdlil8jjqtej3u2ik68",
+    "calendar_id": "3420da5c58857df69f454507278684d5178f0ca539e3dbb121e798f1fecdd951@group.calendar.google.com"
+  },
+  {
     "id": "2026-11-05-southern-taurids-fireball-swarm-peak",
     "type": [
       "astronomical",
